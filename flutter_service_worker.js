@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "7d117060639bcf171641669eb0630bd5",
+const RESOURCES = {"app-release.apk": "19290755b0e3f247d4d6087efb899d1e",
+"assets/AssetManifest.bin": "7d117060639bcf171641669eb0630bd5",
 "assets/AssetManifest.bin.json": "7a1f1a804a5f3ae23feab2c6cead172c",
 "assets/AssetManifest.json": "c7234693319b4c016d518f8338e9f62a",
 "assets/assets/images/default-avatar.png": "eab2f7e6fc3f38f1f146256afbe37f28",
 "assets/assets/images/logo.jpg": "41e3a3de7d93a3a2563944f7493985d6",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "c3f144f574b8e29369f86dfa86530317",
+"assets/fonts/MaterialIcons-Regular.otf": "2dd530514f14377402a96b21f8a68a2a",
 "assets/NOTICES": "3be90bc005073d742280638bb7301fb6",
 "assets/packages/animated_snack_bar/assets/monochrome/check-circle.svg": "f6d9dd67711da5b6d4d965f66c10cd07",
 "assets/packages/animated_snack_bar/assets/monochrome/comment-dots.svg": "44311bf381ea1155bfe38c40d44c577a",
@@ -38,9 +39,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7d117060639bcf171641669eb0630bd5
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7f897725d5ce95d76b87a88e93173063",
-"/": "7f897725d5ce95d76b87a88e93173063",
-"main.dart.js": "b47a7eca75fa78d8a85b5b0e72209233",
+"index.html": "951d8a1741078bea411b58dbb507ba8e",
+"/": "951d8a1741078bea411b58dbb507ba8e",
+"main.dart.js": "4ae5fd4fb9b710ac620393d8fdfe0a23",
 "manifest.json": "7b9e5a8dabd82dbcfc6b6102f66ba535",
 "version.json": "354e047ef81aba702f1a5b458cd9241d"};
 // The application shell files that are downloaded before a service worker can
